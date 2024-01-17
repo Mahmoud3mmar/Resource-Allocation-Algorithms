@@ -1,11 +1,7 @@
-# Resource-Allocation-Algorithms
+# Monolithic E-commerce Purchase
 
-ProjectOSFinal
-Welcome to ProjectOSFinal, a repository that houses an implementation of operating system resource allocation algorithms. The project features algorithms such as Best-Fit, First-In-First-Out (FIFO), and others.
+Welcome to the Operating System Project, your destination for an extensive collection of operating system resource allocation algorithms. The repository showcases implementations of algorithms like Best-Fit, First-In-First-Out (FIFO), and more.
 
-Directory Structure
-plaintext
-Copy code
 /ProjectOSFinal
 |-- bin/Debug
 |-- obj
@@ -34,10 +30,8 @@ Copy code
 |-- url.Designer.cs
 |-- url.cs
 |-- url.resx
-Getting Started
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/ProjectOSFinal.git
-cd ProjectOSFinal
+
+## License:
+This project is licensed under the MIT License.
+
